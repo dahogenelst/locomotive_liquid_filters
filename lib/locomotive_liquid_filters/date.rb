@@ -1,3 +1,5 @@
+require 'liquid'
+
 module LocomotiveLiquidFilters
   module Date
 
